@@ -117,9 +117,9 @@ h2 {
 }
 
 .navbar-right {
-  background-color: #1B7B98;
+  background-color: #000;
   padding:0 10px 0 0;
-  opacity: .9
+  opacity: .9;
 }
 
 .navbar-right li a {
