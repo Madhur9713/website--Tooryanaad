@@ -1,0 +1,25 @@
+body{
+    background-image: url("../images/page5.jpg");
+    overflow-x:hidden;
+    background-size: cover;
+    
+    
+}
+.containerReg {
+    width: 400px;
+    height: auto;
+    background-color: gainsboro;
+    box-shadow: 5px 5px 10px grey;
+    border-radius: 10px;
+    margin-top: 250px;
+    margin-bottom: 100px;
+}
+
+hr {
+    height: 3px;
+    background-color: black;
+   
+    }
+h1{
+    color: black;
+}

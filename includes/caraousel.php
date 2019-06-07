@@ -12,7 +12,7 @@
                     <div class="carousel-caption">
                         <h2>register for our events </h2>
 
-                        <a href="#contact">Register Now<i class="fa fa-angle-right"></i></a>
+                        <a href="registration.php">Register Now<i class="fa fa-angle-right"></i></a>
                     </div>
                 </div>
                 <div class="item">
@@ -20,7 +20,7 @@
                     <div class="carousel-caption">
                         <h2>register for our events </h2>
 
-                        <a href="#contact">Register Now<i class="fa fa-angle-right"></i></a>
+                        <a href="registration.php">Register Now<i class="fa fa-angle-right"></i></a>
                     </div>
                 </div>
                 <div class="item">
@@ -28,7 +28,7 @@
                     <div class="carousel-caption">
                         <h2>register for our events </h2>
 
-                        <a href="#contact">Register Now<i class="fa fa-angle-right"></i></a>
+                        <a href="registration.php">Register Now<i class="fa fa-angle-right"></i></a>
                     </div>
                 </div>
             </div>

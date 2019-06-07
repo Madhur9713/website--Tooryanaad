@@ -35,11 +35,23 @@
 ?>
 <!-- slider -->
 
-
+<br><br><br>
 
 <?php
     include('includes/footer.php');
 ?>
-<!-- slider -->
+<!-- footer -->
+
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
+<script type="text/javascript" src="js/main.js"></script>
+<script type="text/javascript" src="js/resize.js"></script>
+
+
+
+</body>
+
+
+</html>
 
     

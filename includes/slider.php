@@ -1,5 +1,5 @@
 <div class="container">
-    <div style="display: flex; align-items: center; justify-content: center; margin:30px 20px 0;"><button id="head1">प्रतियोगिताएँ</button></div>
+    <div style="display: flex; align-items: center; justify-content: center; margin:30px 20px 0;"><button id="head1" onclick="window.location.href='प्रतियोगिता.php'">प्रतियोगिताएँ</button></div>
     <div class="blocks">
 
         <div class="block">

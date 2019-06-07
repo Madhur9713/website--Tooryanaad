@@ -11,7 +11,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>Tooryanaad HomePage</title>
+    <title><?php echo TITLE;?></title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/font-awesome.min.css" rel="stylesheet">
     <link href="css/main.css" rel="stylesheet">
@@ -19,6 +19,8 @@
     <link href="css/responsive.css" rel="stylesheet">
     <link href="css/new.css" rel="stylesheet">
     <link href="css/footer.css" rel="stylesheet">
+    
+    
 
 
     <!--[if lt IE 9]>
@@ -49,15 +51,15 @@
             <div class="container">
                 <div class="header-top">
                     <div class="pull-right social-icons">
-                        <a href="#"><i class="fa fa-twitter"></i></a>
-                        <a href="#"><i class="fa fa-facebook"></i></a>
-                        <a href="#"><i class="fa fa-google-plus"></i></a>
-                        <a href="#"><i class="fa fa-youtube"></i></a>
+                        <a href="https://twitter.com/tooryanaad_nitb" target="_blank"><i class="fa fa-twitter"></i></a>
+                        <a href="https://facebook.com/tooryanaad" target="_blank"><i class="fa fa-facebook"></i></a>
+                        <a href="https://www.instagram.com/tooryanaad/" target="_blank"><i class="fa fa-instagram"></i></a>
+                        <a href="https://www.youtube.com/channel/UC6BTM_NYKT7RdY254dG_WCA" target="_blank"><i class="fa fa-youtube"></i></a>
                     </div>
                 </div>
                 <div class="row" id="myHeader">
                     <div class="navbar-header">
-                        <a class="navbar-brand" href="index.html" style="background-color: transparent;">
+                        <a class="navbar-brand" href="homePage.php" style="background-color: transparent;">
                             <img class="logo img-responsive" src="images/tooryanaad_logo_white.png" alt="logo">
                         </a>
                         

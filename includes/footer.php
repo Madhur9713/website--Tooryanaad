@@ -24,28 +24,8 @@
                 </div>
             </div>
 
-            <div class="col item1 social"><a href="#"><i class="fa fa-facebook"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-instagram"></i></a><a href="#"><i class="fa fa-youtube"></i></a><a href="#"> <i class="fa fa-envelope"></i></a></div>
+            <div class="col item1 social"><a href="https://facebook.com/tooryanaad" target="_blank"><i class="fa fa-facebook"></i></a><a href="https://twitter.com/tooryanaad_nitb" target="_blank"><i class="fa fa-twitter"></i></a><a href="https://www.instagram.com/tooryanaad/" target="_blank"><i class="fa fa-instagram"></i></a><a href="https://www.youtube.com/channel/UC6BTM_NYKT7RdY254dG_WCA" target="_blank"><i class="fa fa-youtube"></i></a><a href="mailto:tooryanaad@gmail.com"> <i class="fa fa-envelope"></i></a></div>
         </div>
     </footer>
 </div>
 
-<script>
-
-
-</script>
-
-<script type="text/javascript" src="js/jquery.js"></script>
-<script type="text/javascript" src="js/bootstrap.min.js"></script>
-<script type="text/javascript" src="js/smoothscroll.js"></script>
-<script type="text/javascript" src="js/jquery.parallax.js"></script>
-<script type="text/javascript" src="js/coundown-timer.js"></script>
-<script type="text/javascript" src="js/jquery.scrollTo.js"></script>
-<script type="text/javascript" src="js/jquery.nav.js"></script>
-<script type="text/javascript" src="js/main.js"></script>
-<script type="text/javascript" src="js/resize.js"></script>
-
-
-</body>
-
-
-</html>
