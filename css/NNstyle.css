@@ -1,0 +1,161 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	color: #fff;
+}
+
+#menu1, #menu2, #menu3, #topics, #home{
+    letter-spacing: 0.05em;
+    font-size: 14px;
+    font-family: sans-serif;
+}
+
+body{
+	background-color: #1c1c1c;
+}
+
+img{
+  width: 100%;
+  height: auto;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+#aboutNN span{
+	display: block;
+	padding: 0 25px 0 25px;
+}
+
+#aboutNN .headingAbout{
+	font-size: 16px;
+	font-weight: 800;
+	line-height: 28px;
+	margin-top: 35px;
+	color: #00ffff;
+}
+
+#aboutNN .descriptionAbout{
+        letter-spacing: 0.05em;
+	font-size: 14px;
+	font-weight: 500;
+	line-height: 24px;
+	margin-top: 5px;
+	text-align: justify;
+}
+
+.contentOfVivran{
+    font-size: 14px;
+	margin: 0 20px;
+	line-height: 25px;
+	text-align: justify;
+    letter-spacing: normal;
+}
+
+
+.vivran{
+	padding: 1px 0 6px 0;
+	margin: 20px 25px 0 25px;
+	box-shadow: 1px 1px 3px #6d6d6d ;
+	min-height: 30vh;
+	background-color: #303030;
+}
+
+li a{
+	color: #ccfcf1;
+	font-size: 14px;
+}
+
+li:hover a{
+	color: #000;
+}
+
+.cards-list {
+  z-index: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.card {
+  margin: 30px auto;
+  width: 300px;
+  height: 220px;
+  border-radius: 40px;
+box-shadow: 5px 5px 30px 7px rgba(0,0,0,0.25), -5px -5px 30px 7px rgba(0,0,0,0.22);
+  cursor: pointer;
+  transition: 0.4s;
+  background: linear-gradient(45deg, #1c1c1c, #303030);
+}
+
+.card .card_image {
+  width: inherit;
+  height: inherit;
+  border-radius: 40px;
+}
+
+.card .card_image img {
+  width: inherit;
+  height: inherit;
+  border-radius: 40px;
+  object-fit: cover;
+}
+
+.card .card_title {
+  text-align: center;
+  border-radius: 0px 0px 40px 40px;
+  font-family: sans-serif;
+  font-weight: bold;
+  margin-top: -190px;
+  height: 40px;
+}
+
+.card .card_title .span1{
+	display: block;
+	font-size: 22px;
+	color: #00ffff;
+}
+
+.card .card_title .span2{
+	display: block;
+	font-size: 16px;
+	margin-top: 20px;
+	line-height: 35px;
+	color: #f9ff8e;
+}
+
+.card:hover {
+  transform: scale(0.9, 0.9);
+  box-shadow: 5px 5px 30px 15px rgba(0,0,0,0.25), 
+    -5px -5px 30px 15px rgba(0,0,0,0.22);
+}
+
+.title-white {
+  color: white;
+}
+
+.title-black {
+  color: black;
+}
+
+.icon{
+	margin-left: 25px;
+	margin-right: 4px;
+}
+
+
+
+
+@media all and (max-width: 500px) {
+  .card-list {
+    /* On small screens, we are no longer using row direction but column */
+    flex-direction: column;
+  }
+}
+
+@media screen and (max-width: 500px){
+	.vivran{
+		min-height: 50vh;
+	}
+}

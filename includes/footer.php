@@ -24,7 +24,7 @@
                 </div>
             </div>
 
-            <div class="col item1 social"><a href="https://facebook.com/tooryanaad" target="_blank"><i class="fa fa-facebook"></i></a><a href="https://twitter.com/tooryanaad_nitb" target="_blank"><i class="fa fa-twitter"></i></a><a href="https://www.instagram.com/tooryanaad/" target="_blank"><i class="fa fa-instagram"></i></a><a href="https://www.youtube.com/channel/UC6BTM_NYKT7RdY254dG_WCA" target="_blank"><i class="fa fa-youtube"></i></a><a href="mailto:tooryanaad@gmail.com"> <i class="fa fa-envelope"></i></a></div>
+            <div class="col item1 social"><a href="https://facebook.com/tooryanaad" target="_blank"><i class="fa fa-facebook" style="color: #3B5997;"></i></a><a href="https://twitter.com/tooryanaad_nitb" target="_blank"><i class="fa fa-twitter" style="color:#29C5F6;"></i></a><a href="https://www.instagram.com/tooryanaad/" target="_blank"><i class="fa fa-instagram" style="color:#D13D2F;"></i></a><a href="https://www.youtube.com/channel/UC6BTM_NYKT7RdY254dG_WCA" target="_blank"><i class="fa fa-youtube" style="color: #ec5538;"></i></a><a href="mailto:tooryanaad@gmail.com"> <i class="fa fa-envelope"></i></a></div>
         </div>
     </footer>
 </div>

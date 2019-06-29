@@ -4,17 +4,17 @@
     $navItems = array(
         
         array(
-            slug => "homePage.php",
+            slug => "index.php",
             title => "मुखपृष्ठ"
         ),
         
         array(
-            slug => "प्रतियोगिता.php",
+            slug => "events.php",
             title => "प्रतियोगिताएँ" 
         ),
         
         array(
-            slug => "homePage.php",
+            slug => "index.php",
             title => "संपर्क"
         ),
         array(

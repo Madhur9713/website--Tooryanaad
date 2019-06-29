@@ -9,6 +9,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="description" content="">
     <meta name="author" content="">
     <title><?php echo TITLE;?></title>
@@ -59,7 +60,7 @@
                 </div>
                 <div class="row" id="myHeader">
                     <div class="navbar-header">
-                        <a class="navbar-brand" href="homePage.php" style="background-color: transparent;">
+                        <a class="navbar-brand" href="index.php" style="background-color: transparent;">
                             <img class="logo img-responsive" src="images/tooryanaad_logo_white.png" alt="logo">
                         </a>
                         

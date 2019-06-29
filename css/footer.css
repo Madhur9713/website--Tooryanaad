@@ -1,3 +1,5 @@
+
+
 .footer-dark {
   padding:50px 0;
   color:#f0f9ff;
@@ -34,8 +36,9 @@ address {
   opacity:0.6;
 }
 
+
 .footer-dark ul a:hover {
-  opacity:0.8;
+  opacity: 1;
 }
 
 @media (max-width:767px) {
@@ -79,7 +82,7 @@ address {
   display:inline-block;
   text-align:center;
   border-radius:50%;
-  box-shadow:0 0 0 1px rgba(255,255,255,0.4);
+  box-shadow:0 0 0 1px rgba(255,255,255,1);
   margin:0 8px;
   color:#fff;
   opacity:0.75;
@@ -87,6 +90,7 @@ address {
 
 .footer-dark .item1.social > a:hover {
   opacity:0.9;
+    box-shadow:0 0 0 1px rgba(0,0,0,0.4);
 }
 
 .footer-dark .copyright {
