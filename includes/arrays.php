@@ -14,7 +14,7 @@
         ),
         
         array(
-            slug => "index.php",
+            slug => "contact.php",
             title => "संपर्क"
         ),
         array(

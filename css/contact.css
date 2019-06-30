@@ -1,0 +1,58 @@
+body{
+    background-color: #1c1c1c;
+
+}
+
+
+.content{
+    box-sizing: border-box;
+    padding: 30px 50px;
+    color: #fff;
+    font-family: sans-serif;
+    line-height: 25px;
+    
+}
+
+#contact{
+    background-color: black;
+    height: 400px;
+    text-align: center;
+    box-shadow:0px 25px 30px rgba(0,0,0,.5);
+}
+
+.image-box{
+    height: 400px;
+    text-align: center;
+    background: #f00;
+    box-shadow:0px 25px 30px rgba(0,0,0,.5);
+
+}
+
+#slantpara{
+    font-size: 15px;
+}
+input, textarea{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    
+}
+input[type=text], input[type=submit], input[type=reset]{
+    
+    background-color: black;
+    color: white;
+}
+
+textarea[type=text], textarea[type=submit], textarea[type=reset]{
+    
+    background-color: black;
+    color: white;
+}
+.submitb{
+    display: inline-block;
+    background-color: black;
+    color: white;
+    margin-top: 5px;
+}
+
+
+
